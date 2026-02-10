@@ -10,3 +10,4 @@ efivarfs        384K  102K  278K  27% /sys/firmware/efi/efivars
 /dev/nvme0n1p1  1.1G  6.2M  1.1G   1% /boot/efi
 tmpfs           3.2G  120K  3.2G   1% /run/user/1000
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Day 4: Branching and CI concepts
